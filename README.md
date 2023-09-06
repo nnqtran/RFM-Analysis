@@ -69,18 +69,21 @@
 
 - 5. California, Texas, Illinois vs Florida are the states with the most orders.
 
-- 6. The company's main customers are Consumers accounting for 52%, Corporate: 30% and finally Home Office.
+- 6. The company's main customers are Consumers accounting for 52%, Corporate: 30%, and finally Home Office.
 
 - 7. The categories with the most orders are "Office Supplies" up to 60%, then "Furniture".
 
-- 8.The main subcategory are: Paper(14%), Binders(15%), Art(9%), Phones and Storage (8%).
+- 8. The main subcategory are: Paper(14%), Binders(15%), Art(9%), Phones and Storage (8%).
 ## IV. Recommendations
 - The company needs to have policies to:
   - **Retaining new customers**:
-    - For new customers who have made a recent purchase, send a personalized welcome email or offer that thanks them for their purchase and encourages them to return to our business.
-    - For customers who have made only one purchase, use email marketing to keep them engaged with our brand and encourage them to make a second purchase.
-    - Offer a special discount or promotion to incentivize them to return.
-    - For customers who have made a high-value purchase, thank them for their business and offer a loyalty program that rewards them for their continued purchases.
+      - Extend a warm welcome to new customers who have recently made a purchase by sending them a personalized email expressing gratitude for their patronage and motivating them to revisit our business.
+
+      - Engage customers who have completed a single purchase through targeted email marketing campaigns, nurturing their connection with our brand and motivating them to make a second purchase.
+
+      - Provide an exclusive discount or promotional offer as an enticing incentive for their return.
+
+      - Express appreciation to customers who have made significant, high-value purchases and introduce them to our loyalty program, designed to reward their ongoing loyalty with exclusive benefits.
   - **Promoting hibernating customers**:
     - For hibernating customers who have not made a purchase in a while, send a win-back email or offer that encourages them to return to our business.
     - Offer a special discount or promotion that is personalized based on their past purchases.
