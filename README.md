@@ -13,9 +13,14 @@
 - [RFM Analysis For Successful Customer Segmentation](https://www.putler.com/rfm-analysis)
 
 ### 2. Business Questions
-- The Marketing Department needs to classify the segments of each customer to deploy each marketing program suitable for each customer group.
-- The Marketing Director also proposed a plan to use the RFM model in Python to segment customers, and then launch marketing campaigns to thank customers for supporting the company over the past time. As well as exploit potential customers to become loyal customers.
-- Suggestions to the Marketing and Sales team with the company's retail model, which of the three indicators R, F, and M should be most interested in?
+- The Marketing Department is tasked with categorizing customer segments in order to tailor specific marketing programs for each group.
+- The Marketing Director has put forth a proposal to implement the RFM model using Python for customer segmentation. The aim is to initiate marketing campaigns to express gratitude to loyal customers for their ongoing support and to tap into the potential customer base with the goal of fostering loyalty.
+- Recommendations have been made to the Marketing and Sales teams regarding the company's retail model, highlighting the key question of which of the three indicators - R, F, and M - should be given the highest priority and attention.
+
+
+
+
+
 
 ## II. Data Visualization with Python
 - **Seaborn Countplot of Frequency**
