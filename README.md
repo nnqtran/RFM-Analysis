@@ -57,21 +57,21 @@
 
 ![newplot (1)](https://user-images.githubusercontent.com/101726623/235649382-7105ded5-388e-4f6a-9a52-e44ffcc25891.png)
 ## III. Insights
-- 1.The most important index of the 3 indicators that the SuperStore company needs to pay attention to is F, then R: because the rate of customers buying once and twice is very high. Very few customers make long-term purchases like 8-9 times or more.
+- 1. The most important index of the 3 indicators that the SuperStore company needs to pay attention to is F, then R: because the rate of customers buying once and twice is very high. Very few customers make long-term purchases like 8-9 times or more.
      -> That shows that the customer retention rate at the company is still low.
      
-- 2.About Customer Segmentation: The company is mainly "New Customers" >"Hibernating customers">"Lost customers".
+- 2. About Customer Segmentation: The company is mainly "New Customers" >"Hibernating customers">"Lost customers".
     -> This again shows that we need to pay attention to the index F.
   
-- 3.Revenue and profit from "New Customers" is the highest.
+- 3. Revenue and profit from "New Customers" is the highest.
 
-- 4.The revenue in the East region is the lowest compared to the other 3 regions.
+- 4. The revenue in the East region is the lowest compared to the other 3 regions.
 
-- 5.California, Texas, Illinois vs Florida are the states with the most orders.
+- 5. California, Texas, Illinois vs Florida are the states with the most orders.
 
-- 6.The company's main customers are Consumers accounting for 52%, Corporate: 30% and finally Home Office.
+- 6. The company's main customers are Consumers accounting for 52%, Corporate: 30% and finally Home Office.
 
-- 7.The categories with the most orders are "Office Supplies" up to 60%, then "Furniture".
+- 7. The categories with the most orders are "Office Supplies" up to 60%, then "Furniture".
 
 - 8.The main subcategory are: Paper(14%), Binders(15%), Art(9%), Phones and Storage (8%).
 ## IV. Recommendations
