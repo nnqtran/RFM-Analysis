@@ -85,8 +85,8 @@
 
       - Express appreciation to customers who have made significant, high-value purchases and introduce them to our loyalty program, designed to reward their ongoing loyalty with exclusive benefits.
   - **Promoting hibernating customers**:
-    - For hibernating customers who have not made a purchase in a while, send a win-back email or offer that encourages them to return to our business.
-    - Offer a special discount or promotion that is personalized based on their past purchases.
-    - For customers who have made multiple purchases in the past but have not made one recently, send personalized email campaigns that showcase new products or services that may be of interest to them.
-    - For high-value customers who have not made a purchase in a while, send a personalized email or offer that highlights new products or services that may be of interest to them and offer a special discount or promotion that is tailored to their past purchase history.
+      - Reach out to hibernating customers who haven't made a recent purchase by sending them a reactivation email or an enticing offer aimed at rekindling their engagement with our brand.
+      - Craft a unique discount or promotional deal that aligns with their previous buying habits.
+      - Target repeat customers who have lapsed in recent purchases with personalized email campaigns that spotlight our latest offerings and services tailored to their preferences.
+      - Extend a personalized email or offer to our valued patrons who've been absent from our store, showcasing new products or services that cater to their interests, and provide them with an exclusive discount or promotion tailored to their past shopping history.
 - Need to have a marketing strategy to focus on the segment: Consumer -> Office Supplies segment in states like California, Texas, and Illinois vs Florida.
